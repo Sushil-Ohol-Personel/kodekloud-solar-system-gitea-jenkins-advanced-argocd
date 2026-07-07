@@ -16,6 +16,7 @@
   "dependencies": {
     "@babel/traverse": "^7.23.2",
     "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
     "express": "^4.18.2",
     "mocha-junit-reporter": "^2.2.1",
     "mongoose": "5.13.20",
